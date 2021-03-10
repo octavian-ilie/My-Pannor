@@ -12,6 +12,48 @@
 		2B6B81E825F81962007B6AAD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B6B81E725F81962007B6AAD /* Assets.xcassets */; };
 		2B6B81EB25F81962007B6AAD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B6B81EA25F81962007B6AAD /* Preview Assets.xcassets */; };
 		2B6B81F425F81AD0007B6AAD /* Launch-Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B6B81F325F81AD0007B6AAD /* Launch-Screen.storyboard */; };
+		2BE5EABF25F954220014C556 /* PantonIconsDFill-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EA9525F9541F0014C556 /* PantonIconsDFill-Regular.otf */; };
+		2BE5EAC025F954220014C556 /* PantonIconsC-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EA9625F9541F0014C556 /* PantonIconsC-Bold.otf */; };
+		2BE5EAC125F954220014C556 /* Panton-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EA9725F9541F0014C556 /* Panton-Thin.otf */; };
+		2BE5EAC225F954220014C556 /* PantonNarrow-BlackCaps.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EA9825F9541F0014C556 /* PantonNarrow-BlackCaps.otf */; };
+		2BE5EAC325F954220014C556 /* Panton-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EA9925F9541F0014C556 /* Panton-Regular.otf */; };
+		2BE5EAC425F954220014C556 /* Panton-LightCaps.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EA9A25F9541F0014C556 /* Panton-LightCaps.otf */; };
+		2BE5EAC525F954220014C556 /* Panton-ExtraBoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EA9B25F9541F0014C556 /* Panton-ExtraBoldItalic.otf */; };
+		2BE5EAC625F954220014C556 /* Panton-ExtraLightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EA9C25F954200014C556 /* Panton-ExtraLightItalic.otf */; };
+		2BE5EAC725F954220014C556 /* PantonNarrow-LightCaps.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EA9D25F954200014C556 /* PantonNarrow-LightCaps.otf */; };
+		2BE5EAC825F954220014C556 /* PantonIconsDFill-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EA9E25F954200014C556 /* PantonIconsDFill-Bold.otf */; };
+		2BE5EAC925F954220014C556 /* Panton-BlackCaps.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EA9F25F954200014C556 /* Panton-BlackCaps.otf */; };
+		2BE5EACA25F954220014C556 /* Panton-LightItalicCaps.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAA025F954200014C556 /* Panton-LightItalicCaps.otf */; };
+		2BE5EACB25F954220014C556 /* Panton-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAA125F954200014C556 /* Panton-Italic.otf */; };
+		2BE5EACC25F954220014C556 /* PantonIconsD-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAA225F954200014C556 /* PantonIconsD-Regular.otf */; };
+		2BE5EACD25F954220014C556 /* Panton-BlackItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAA325F954200014C556 /* Panton-BlackItalic.otf */; };
+		2BE5EACE25F954220014C556 /* Panton-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAA425F954200014C556 /* Panton-SemiBold.otf */; };
+		2BE5EACF25F954220014C556 /* Panton-BlackItalicCaps.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAA525F954200014C556 /* Panton-BlackItalicCaps.otf */; };
+		2BE5EAD025F954220014C556 /* Panton-ExtraBlackItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAA625F954200014C556 /* Panton-ExtraBlackItalic.otf */; };
+		2BE5EAD125F954220014C556 /* Panton-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAA725F954200014C556 /* Panton-Bold.otf */; };
+		2BE5EAD225F954220014C556 /* Panton-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAA825F954200014C556 /* Panton-Light.otf */; };
+		2BE5EAD325F954220014C556 /* Panton-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAA925F954200014C556 /* Panton-BoldItalic.otf */; };
+		2BE5EAD425F954220014C556 /* PantonIconsAFill-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAAA25F954200014C556 /* PantonIconsAFill-Bold.otf */; };
+		2BE5EAD525F954220014C556 /* PantonIconsAFill-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAAB25F954200014C556 /* PantonIconsAFill-Regular.otf */; };
+		2BE5EAD625F954220014C556 /* PantonIconsBFill-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAAC25F954200014C556 /* PantonIconsBFill-Regular.otf */; };
+		2BE5EAD725F954220014C556 /* Panton-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAAD25F954210014C556 /* Panton-Black.otf */; };
+		2BE5EAD825F954220014C556 /* Panton-ThinItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAAE25F954210014C556 /* Panton-ThinItalic.otf */; };
+		2BE5EAD925F954220014C556 /* Panton-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAAF25F954210014C556 /* Panton-LightItalic.otf */; };
+		2BE5EADA25F954220014C556 /* PantonIconsCFill-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAB025F954210014C556 /* PantonIconsCFill-Bold.otf */; };
+		2BE5EADB25F954220014C556 /* PantonIconsC-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAB125F954210014C556 /* PantonIconsC-Regular.otf */; };
+		2BE5EADC25F954220014C556 /* PantonIconsB-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAB225F954210014C556 /* PantonIconsB-Bold.otf */; };
+		2BE5EADD25F954220014C556 /* PantonIconsCFill-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAB325F954210014C556 /* PantonIconsCFill-Regular.otf */; };
+		2BE5EADE25F954220014C556 /* PantonIconsD-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAB425F954210014C556 /* PantonIconsD-Bold.otf */; };
+		2BE5EADF25F954220014C556 /* Panton-SemiBoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAB525F954210014C556 /* Panton-SemiBoldItalic.otf */; };
+		2BE5EAE025F954220014C556 /* PantonNarrow-BlackItalicCaps.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAB625F954210014C556 /* PantonNarrow-BlackItalicCaps.otf */; };
+		2BE5EAE125F954220014C556 /* PantonNarrow-LightItalicCaps.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAB725F954210014C556 /* PantonNarrow-LightItalicCaps.otf */; };
+		2BE5EAE225F954220014C556 /* PantonIconsA-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAB825F954210014C556 /* PantonIconsA-Bold.otf */; };
+		2BE5EAE325F954220014C556 /* Panton-ExtraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EAB925F954210014C556 /* Panton-ExtraLight.otf */; };
+		2BE5EAE425F954220014C556 /* PantonIconsB-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EABA25F954210014C556 /* PantonIconsB-Regular.otf */; };
+		2BE5EAE525F954220014C556 /* PantonIconsA-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EABB25F954210014C556 /* PantonIconsA-Regular.otf */; };
+		2BE5EAE625F954220014C556 /* Panton-ExtraBlack.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EABC25F954210014C556 /* Panton-ExtraBlack.otf */; };
+		2BE5EAE725F954220014C556 /* Panton-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EABD25F954220014C556 /* Panton-ExtraBold.otf */; };
+		2BE5EAE825F954220014C556 /* PantonIconsBFill-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2BE5EABE25F954220014C556 /* PantonIconsBFill-Bold.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +64,48 @@
 		2B6B81EA25F81962007B6AAD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2B6B81EC25F81962007B6AAD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2B6B81F325F81AD0007B6AAD /* Launch-Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch-Screen.storyboard"; sourceTree = "<group>"; };
+		2BE5EA9525F9541F0014C556 /* PantonIconsDFill-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PantonIconsDFill-Regular.otf"; sourceTree = "<group>"; };
+		2BE5EA9625F9541F0014C556 /* PantonIconsC-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PantonIconsC-Bold.otf"; sourceTree = "<group>"; };
+		2BE5EA9725F9541F0014C556 /* Panton-Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panton-Thin.otf"; sourceTree = "<group>"; };
+		2BE5EA9825F9541F0014C556 /* PantonNarrow-BlackCaps.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PantonNarrow-BlackCaps.otf"; sourceTree = "<group>"; };
+		2BE5EA9925F9541F0014C556 /* Panton-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panton-Regular.otf"; sourceTree = "<group>"; };
+		2BE5EA9A25F9541F0014C556 /* Panton-LightCaps.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panton-LightCaps.otf"; sourceTree = "<group>"; };
+		2BE5EA9B25F9541F0014C556 /* Panton-ExtraBoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panton-ExtraBoldItalic.otf"; sourceTree = "<group>"; };
+		2BE5EA9C25F954200014C556 /* Panton-ExtraLightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panton-ExtraLightItalic.otf"; sourceTree = "<group>"; };
+		2BE5EA9D25F954200014C556 /* PantonNarrow-LightCaps.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PantonNarrow-LightCaps.otf"; sourceTree = "<group>"; };
+		2BE5EA9E25F954200014C556 /* PantonIconsDFill-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PantonIconsDFill-Bold.otf"; sourceTree = "<group>"; };
+		2BE5EA9F25F954200014C556 /* Panton-BlackCaps.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panton-BlackCaps.otf"; sourceTree = "<group>"; };
+		2BE5EAA025F954200014C556 /* Panton-LightItalicCaps.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panton-LightItalicCaps.otf"; sourceTree = "<group>"; };
+		2BE5EAA125F954200014C556 /* Panton-Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panton-Italic.otf"; sourceTree = "<group>"; };
+		2BE5EAA225F954200014C556 /* PantonIconsD-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PantonIconsD-Regular.otf"; sourceTree = "<group>"; };
+		2BE5EAA325F954200014C556 /* Panton-BlackItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panton-BlackItalic.otf"; sourceTree = "<group>"; };
+		2BE5EAA425F954200014C556 /* Panton-SemiBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panton-SemiBold.otf"; sourceTree = "<group>"; };
+		2BE5EAA525F954200014C556 /* Panton-BlackItalicCaps.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panton-BlackItalicCaps.otf"; sourceTree = "<group>"; };
+		2BE5EAA625F954200014C556 /* Panton-ExtraBlackItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panton-ExtraBlackItalic.otf"; sourceTree = "<group>"; };
+		2BE5EAA725F954200014C556 /* Panton-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panton-Bold.otf"; sourceTree = "<group>"; };
+		2BE5EAA825F954200014C556 /* Panton-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panton-Light.otf"; sourceTree = "<group>"; };
+		2BE5EAA925F954200014C556 /* Panton-BoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panton-BoldItalic.otf"; sourceTree = "<group>"; };
+		2BE5EAAA25F954200014C556 /* PantonIconsAFill-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PantonIconsAFill-Bold.otf"; sourceTree = "<group>"; };
+		2BE5EAAB25F954200014C556 /* PantonIconsAFill-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PantonIconsAFill-Regular.otf"; sourceTree = "<group>"; };
+		2BE5EAAC25F954200014C556 /* PantonIconsBFill-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PantonIconsBFill-Regular.otf"; sourceTree = "<group>"; };
+		2BE5EAAD25F954210014C556 /* Panton-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panton-Black.otf"; sourceTree = "<group>"; };
+		2BE5EAAE25F954210014C556 /* Panton-ThinItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panton-ThinItalic.otf"; sourceTree = "<group>"; };
+		2BE5EAAF25F954210014C556 /* Panton-LightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panton-LightItalic.otf"; sourceTree = "<group>"; };
+		2BE5EAB025F954210014C556 /* PantonIconsCFill-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PantonIconsCFill-Bold.otf"; sourceTree = "<group>"; };
+		2BE5EAB125F954210014C556 /* PantonIconsC-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PantonIconsC-Regular.otf"; sourceTree = "<group>"; };
+		2BE5EAB225F954210014C556 /* PantonIconsB-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PantonIconsB-Bold.otf"; sourceTree = "<group>"; };
+		2BE5EAB325F954210014C556 /* PantonIconsCFill-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PantonIconsCFill-Regular.otf"; sourceTree = "<group>"; };
+		2BE5EAB425F954210014C556 /* PantonIconsD-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PantonIconsD-Bold.otf"; sourceTree = "<group>"; };
+		2BE5EAB525F954210014C556 /* Panton-SemiBoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panton-SemiBoldItalic.otf"; sourceTree = "<group>"; };
+		2BE5EAB625F954210014C556 /* PantonNarrow-BlackItalicCaps.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PantonNarrow-BlackItalicCaps.otf"; sourceTree = "<group>"; };
+		2BE5EAB725F954210014C556 /* PantonNarrow-LightItalicCaps.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PantonNarrow-LightItalicCaps.otf"; sourceTree = "<group>"; };
+		2BE5EAB825F954210014C556 /* PantonIconsA-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PantonIconsA-Bold.otf"; sourceTree = "<group>"; };
+		2BE5EAB925F954210014C556 /* Panton-ExtraLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panton-ExtraLight.otf"; sourceTree = "<group>"; };
+		2BE5EABA25F954210014C556 /* PantonIconsB-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PantonIconsB-Regular.otf"; sourceTree = "<group>"; };
+		2BE5EABB25F954210014C556 /* PantonIconsA-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PantonIconsA-Regular.otf"; sourceTree = "<group>"; };
+		2BE5EABC25F954210014C556 /* Panton-ExtraBlack.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panton-ExtraBlack.otf"; sourceTree = "<group>"; };
+		2BE5EABD25F954220014C556 /* Panton-ExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Panton-ExtraBold.otf"; sourceTree = "<group>"; };
+		2BE5EABE25F954220014C556 /* PantonIconsBFill-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "PantonIconsBFill-Bold.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +140,7 @@
 			children = (
 				2B6B81E325F81961007B6AAD /* My_PannorApp.swift */,
 				2B6B81E525F81961007B6AAD /* ContentView.swift */,
+				2BE5EA9425F953F10014C556 /* Fonts */,
 				2B6B81F325F81AD0007B6AAD /* Launch-Screen.storyboard */,
 				2B6B81E725F81962007B6AAD /* Assets.xcassets */,
 				2B6B81EC25F81962007B6AAD /* Info.plist */,
@@ -70,6 +155,55 @@
 				2B6B81EA25F81962007B6AAD /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		2BE5EA9425F953F10014C556 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				2BE5EAAD25F954210014C556 /* Panton-Black.otf */,
+				2BE5EA9F25F954200014C556 /* Panton-BlackCaps.otf */,
+				2BE5EAA325F954200014C556 /* Panton-BlackItalic.otf */,
+				2BE5EAA525F954200014C556 /* Panton-BlackItalicCaps.otf */,
+				2BE5EAA725F954200014C556 /* Panton-Bold.otf */,
+				2BE5EAA925F954200014C556 /* Panton-BoldItalic.otf */,
+				2BE5EABC25F954210014C556 /* Panton-ExtraBlack.otf */,
+				2BE5EAA625F954200014C556 /* Panton-ExtraBlackItalic.otf */,
+				2BE5EABD25F954220014C556 /* Panton-ExtraBold.otf */,
+				2BE5EA9B25F9541F0014C556 /* Panton-ExtraBoldItalic.otf */,
+				2BE5EAB925F954210014C556 /* Panton-ExtraLight.otf */,
+				2BE5EA9C25F954200014C556 /* Panton-ExtraLightItalic.otf */,
+				2BE5EAA125F954200014C556 /* Panton-Italic.otf */,
+				2BE5EAA825F954200014C556 /* Panton-Light.otf */,
+				2BE5EA9A25F9541F0014C556 /* Panton-LightCaps.otf */,
+				2BE5EAAF25F954210014C556 /* Panton-LightItalic.otf */,
+				2BE5EAA025F954200014C556 /* Panton-LightItalicCaps.otf */,
+				2BE5EA9925F9541F0014C556 /* Panton-Regular.otf */,
+				2BE5EAA425F954200014C556 /* Panton-SemiBold.otf */,
+				2BE5EAB525F954210014C556 /* Panton-SemiBoldItalic.otf */,
+				2BE5EA9725F9541F0014C556 /* Panton-Thin.otf */,
+				2BE5EAAE25F954210014C556 /* Panton-ThinItalic.otf */,
+				2BE5EAB825F954210014C556 /* PantonIconsA-Bold.otf */,
+				2BE5EABB25F954210014C556 /* PantonIconsA-Regular.otf */,
+				2BE5EAAA25F954200014C556 /* PantonIconsAFill-Bold.otf */,
+				2BE5EAAB25F954200014C556 /* PantonIconsAFill-Regular.otf */,
+				2BE5EAB225F954210014C556 /* PantonIconsB-Bold.otf */,
+				2BE5EABA25F954210014C556 /* PantonIconsB-Regular.otf */,
+				2BE5EABE25F954220014C556 /* PantonIconsBFill-Bold.otf */,
+				2BE5EAAC25F954200014C556 /* PantonIconsBFill-Regular.otf */,
+				2BE5EA9625F9541F0014C556 /* PantonIconsC-Bold.otf */,
+				2BE5EAB125F954210014C556 /* PantonIconsC-Regular.otf */,
+				2BE5EAB025F954210014C556 /* PantonIconsCFill-Bold.otf */,
+				2BE5EAB325F954210014C556 /* PantonIconsCFill-Regular.otf */,
+				2BE5EAB425F954210014C556 /* PantonIconsD-Bold.otf */,
+				2BE5EAA225F954200014C556 /* PantonIconsD-Regular.otf */,
+				2BE5EA9E25F954200014C556 /* PantonIconsDFill-Bold.otf */,
+				2BE5EA9525F9541F0014C556 /* PantonIconsDFill-Regular.otf */,
+				2BE5EA9825F9541F0014C556 /* PantonNarrow-BlackCaps.otf */,
+				2BE5EAB625F954210014C556 /* PantonNarrow-BlackItalicCaps.otf */,
+				2BE5EA9D25F954200014C556 /* PantonNarrow-LightCaps.otf */,
+				2BE5EAB725F954210014C556 /* PantonNarrow-LightItalicCaps.otf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -129,9 +263,51 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2BE5EAD625F954220014C556 /* PantonIconsBFill-Regular.otf in Resources */,
+				2BE5EAD325F954220014C556 /* Panton-BoldItalic.otf in Resources */,
+				2BE5EACA25F954220014C556 /* Panton-LightItalicCaps.otf in Resources */,
+				2BE5EAD225F954220014C556 /* Panton-Light.otf in Resources */,
+				2BE5EAC325F954220014C556 /* Panton-Regular.otf in Resources */,
+				2BE5EAE325F954220014C556 /* Panton-ExtraLight.otf in Resources */,
+				2BE5EAD825F954220014C556 /* Panton-ThinItalic.otf in Resources */,
+				2BE5EADD25F954220014C556 /* PantonIconsCFill-Regular.otf in Resources */,
+				2BE5EACC25F954220014C556 /* PantonIconsD-Regular.otf in Resources */,
+				2BE5EAC125F954220014C556 /* Panton-Thin.otf in Resources */,
+				2BE5EAD525F954220014C556 /* PantonIconsAFill-Regular.otf in Resources */,
+				2BE5EAE625F954220014C556 /* Panton-ExtraBlack.otf in Resources */,
+				2BE5EAE525F954220014C556 /* PantonIconsA-Regular.otf in Resources */,
+				2BE5EACE25F954220014C556 /* Panton-SemiBold.otf in Resources */,
 				2B6B81F425F81AD0007B6AAD /* Launch-Screen.storyboard in Resources */,
+				2BE5EADC25F954220014C556 /* PantonIconsB-Bold.otf in Resources */,
+				2BE5EACD25F954220014C556 /* Panton-BlackItalic.otf in Resources */,
+				2BE5EAE425F954220014C556 /* PantonIconsB-Regular.otf in Resources */,
+				2BE5EAE025F954220014C556 /* PantonNarrow-BlackItalicCaps.otf in Resources */,
+				2BE5EABF25F954220014C556 /* PantonIconsDFill-Regular.otf in Resources */,
+				2BE5EAD425F954220014C556 /* PantonIconsAFill-Bold.otf in Resources */,
 				2B6B81EB25F81962007B6AAD /* Preview Assets.xcassets in Resources */,
+				2BE5EAC425F954220014C556 /* Panton-LightCaps.otf in Resources */,
+				2BE5EAC625F954220014C556 /* Panton-ExtraLightItalic.otf in Resources */,
+				2BE5EAC825F954220014C556 /* PantonIconsDFill-Bold.otf in Resources */,
+				2BE5EAD925F954220014C556 /* Panton-LightItalic.otf in Resources */,
+				2BE5EAD725F954220014C556 /* Panton-Black.otf in Resources */,
+				2BE5EADF25F954220014C556 /* Panton-SemiBoldItalic.otf in Resources */,
+				2BE5EAC025F954220014C556 /* PantonIconsC-Bold.otf in Resources */,
+				2BE5EAE725F954220014C556 /* Panton-ExtraBold.otf in Resources */,
+				2BE5EAE825F954220014C556 /* PantonIconsBFill-Bold.otf in Resources */,
+				2BE5EAC525F954220014C556 /* Panton-ExtraBoldItalic.otf in Resources */,
+				2BE5EAD125F954220014C556 /* Panton-Bold.otf in Resources */,
+				2BE5EACB25F954220014C556 /* Panton-Italic.otf in Resources */,
+				2BE5EAD025F954220014C556 /* Panton-ExtraBlackItalic.otf in Resources */,
+				2BE5EAC925F954220014C556 /* Panton-BlackCaps.otf in Resources */,
+				2BE5EADE25F954220014C556 /* PantonIconsD-Bold.otf in Resources */,
+				2BE5EACF25F954220014C556 /* Panton-BlackItalicCaps.otf in Resources */,
+				2BE5EAE225F954220014C556 /* PantonIconsA-Bold.otf in Resources */,
+				2BE5EAE125F954220014C556 /* PantonNarrow-LightItalicCaps.otf in Resources */,
+				2BE5EADA25F954220014C556 /* PantonIconsCFill-Bold.otf in Resources */,
 				2B6B81E825F81962007B6AAD /* Assets.xcassets in Resources */,
+				2BE5EADB25F954220014C556 /* PantonIconsC-Regular.otf in Resources */,
+				2BE5EAC725F954220014C556 /* PantonNarrow-LightCaps.otf in Resources */,
+				2BE5EAC225F954220014C556 /* PantonNarrow-BlackCaps.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

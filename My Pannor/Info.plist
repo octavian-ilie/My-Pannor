@@ -48,5 +48,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Panton-Bold.otf</string>
+		<string>Panton-Thin.otf</string>
+		<string>Panton-Regular.otf</string>
+	</array>
 </dict>
 </plist>
